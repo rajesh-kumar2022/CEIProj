@@ -1,0 +1,9 @@
+[debug] Acquiring lock on file C:\Users\sai kumar\IdeaProjects\CEIProj\project\target\.sbt-compilation-infos\ceiproj-compile\.sbt-idea-lock ...
+[error] C:\Users\sai kumar\IdeaProjects\CEIProj\src\main\scala\com\ceiproject\org\wordTest.scala:20:36: missing parameter type for expanded function ((x$1, x$2) => x$1.$plus(x$2))
+[error]     val cntWord = words.groupByKey(_ + _)
+[error]                                    ^
+[error] C:\Users\sai kumar\IdeaProjects\CEIProj\src\main\scala\com\ceiproject\org\wordTest.scala:20:40: missing parameter type for expanded function ((x$1: <error>, x$2) => x$1.$plus(x$2))
+[error]     val cntWord = words.groupByKey(_ + _)
+[error]                                        ^
+[error] two errors found
+[debug] Releasing lock on file C:\Users\sai kumar\IdeaProjects\CEIProj\project\target\.sbt-compilation-infos\ceiproj-compile\.sbt-idea-lock.
